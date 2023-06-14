@@ -1,3 +1,8 @@
+## Hey, I’m Bhavinkumar Parmar
+
+### I am a Full Stack Software Developer with 6.5 years of experience in systems analysis, development, and implementation of various applications, including web and client/server application development. I am proficient in Microsoft .NET Framework, C#.NET, and ASP.NET, Java, React, React Native and have expertise in Agile Scrum and Waterfall methodology.
+
+
 ## Skills
 
 ### Languages
