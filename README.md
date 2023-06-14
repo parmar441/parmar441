@@ -1,16 +1,16 @@
-### Hi there 👋
 
-<!--
-**parmar441/parmar441** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Skills:
+Languages:
+Java  Python  Shell Script  LaTeX  Markdown
 
-Here are some ideas to get you started:
+ML/DL
+Tensorflow  scikit-learn  Fast API  NumPy  Pandas  Plotly
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Database
+MySQL  PostgreSQL 
+
+Tools and Technologies
+Linux  Git 
+
+IDEs
+Eclipse  Jupyter Notebook  PyCharm  Visual Studio Code  Vim 
