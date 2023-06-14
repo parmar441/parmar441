@@ -7,7 +7,7 @@
 ![Tensorflow](https://example.com/tensorflow-icon.png)  ![scikit-learn](https://example.com/scikit-learn-icon.png)  ![Fast API](https://example.com/fastapi-icon.png)  ![NumPy](https://example.com/numpy-icon.png)  ![Pandas](https://example.com/pandas-icon.png)  ![Plotly](https://example.com/plotly-icon.png)
 
 ### Database
-![MySQL](https://example.com/mysql-icon.png)  ![PostgreSQL](https://example.com/postgresql-icon.png)
+![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)  ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)  ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)   ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)   ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
 
 ### Tools and Technologies
 ![Linux](https://example.com/linux-icon.png)  ![Git](https://example.com/git-icon.png)
